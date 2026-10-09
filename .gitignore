@@ -1,0 +1,21 @@
+﻿# Competition datasets
+/train.csv
+/test.csv
+/sample_submission.csv
+
+# Python virtual environments
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# Secrets
+.env
+.env.*
+
+# Generated models and temporary files
+*.cbm
+*.pkl
+*.joblib
+*.log
+.ipynb_checkpoints/
